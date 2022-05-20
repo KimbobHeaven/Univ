@@ -1,7 +1,5 @@
 #include <iostream>
-#include <string>
 #include "dequeClass.h"
-#include "servivors.h"
 using namespace std;
 
 void josephus(int, int, int*, int*);
